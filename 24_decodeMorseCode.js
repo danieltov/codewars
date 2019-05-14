@@ -40,3 +40,5 @@ function decodeMorse(code) {
     .replace(/\s+/g, ' ')
     .trim();
 }
+
+// fixing commits
