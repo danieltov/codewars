@@ -17,3 +17,5 @@ function solution(n) {
 
   return sum;
 }
+
+// fixing commits
