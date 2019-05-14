@@ -16,3 +16,5 @@ function getCount(str) {
   }
   return vowelsCount;
 }
+
+// added email
