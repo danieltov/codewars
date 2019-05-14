@@ -26,3 +26,6 @@ function findOdd(A) {
 function findOddBitwise(x) {
   return x.reduce((l, r) => l ^ r);
 }
+
+
+// fixing commits
