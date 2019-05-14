@@ -21,3 +21,5 @@ function DNAStrand(dna) {
     .map(x => comp[x])
     .join('');
 }
+
+// fixing commits
