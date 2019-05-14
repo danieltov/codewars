@@ -9,3 +9,5 @@ String will never be empty and you do not need to account for different data typ
 
 const findShort = s =>
   s.split(' ').sort((a, b) => a.length - b.length)[0].length;
+
+// fixing commits
